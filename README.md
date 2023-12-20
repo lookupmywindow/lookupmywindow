@@ -6,7 +6,7 @@ I am a Computer Science student passionate about exploring the world of technolo
 
 - 🎓 I'm currently pursuing my degree in Computer Science.
 - 🌐 I have a keen interest in web development (particularly in building responsive & user-friendly interfaces) and enthusiastic about data science(exploring insights from data and creating visualizations).
-      Technologies: HTML, JavaScript, Python, Pandas, C++
+      --Technologies: HTML, JavaScript, Python, Pandas, C++
 - 🌱 I'm always learning and exploring new technologies to stay updated in the dynamic field of computer science.
 - 🚀 I would also like learning something new like cybersercurity(ethical hacking, etc)
   
