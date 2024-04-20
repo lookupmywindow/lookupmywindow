@@ -13,7 +13,7 @@ I am a Computer Science student passionate about exploring the world of technolo
 ## My Interests
 
 - Web Development, DevOps and Agile methodologies
-- Courses enrolled: IBM DevOps and Software Engineering coursera
+- Courses completed: IBM DevOps and Software Engineering Coursera, Google UX Design
 
 ## How to Reach Me
 
